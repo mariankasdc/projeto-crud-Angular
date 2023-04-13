@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAc Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Lava e Seca Samsung 16Kg",
+      "price": "3200.00",
+      "id": 4
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 5
+    }
+  ]
+}
