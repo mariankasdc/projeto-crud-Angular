@@ -11,7 +11,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     vertical-align: middle;
 }
 
-.toolbar .msg-success {
+.msg-success {
     background-color: #28a745;
     color: #fff;
 }
